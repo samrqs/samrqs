@@ -2,7 +2,7 @@
 ### Welcome to my Github profile :rose:
 
 - 🔭 I’m currently working on development
-- 🌱 I’m currently learning python/backend
+- 🌱 I’m currently learning python/django
 
 <!-- ### Tools and Technologies
 
