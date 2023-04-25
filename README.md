@@ -13,8 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> -->
 
 <div>
-<a href="https://github.com/samrqs">
-<img height="140em" src="https://readmestats.999857.xyz"/>
+<a href="https://github.com/samrqs">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img height="140em" src="https://readmestats.999857.xyz"/>
 </div> 
 
