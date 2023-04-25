@@ -12,12 +12,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrqs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrqs&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrqs&hide_progress=false&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-<div>
-<a href="https://github.com/samrqs">
-<img height="140em" src="https://readmestats.999857.xyz"/>
-</div> 
 
 <!--
 **samrqs/samrqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
