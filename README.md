@@ -1,28 +1,22 @@
-## Hello, my name is Samara! 
-### Welcome to my Github profile :rose:
+# Seja bem-vindo(a)! :vulcan_salute:
 
-- 🔭 I’m currently working on development
-- 🌱 I’m currently learning python/django
+![](https://komarev.com/ghpvc/?username=samrqsp&color=000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=samrqs&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/samrqs?label=Follow&style=social)
 
-<!-- ### Tools and Technologies
+- :computer: Desenvolvedora Backend Jr.
+- :mortar_board: Cursando Ciências da Computação
+- :video_game: COD Mobile
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /> 
+### Linguagens
 
- ### Learning
+![Python](https://img.shields.io/badge/Python-282C34?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/Java-282C34?&logo=openjdk)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> -->
+### Bibliotecas e afins
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrqs&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samrqs&hide_progress=false&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-<!--
-**samrqs/samrqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on development
-- 🌱 I’m currently learning python/backend
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Django](https://img.shields.io/badge/Django-282C34?logo=django&logoColor=35BF5C)
+![Postgresql](https://img.shields.io/badge/Postgresql-282C34?logo=postgresql)
+![INsomnia](https://img.shields.io/badge/Insomnia-282C34?logo=insomnia)
+![Pandas](https://img.shields.io/badge/Pandas-282C34?logo=pandas)
