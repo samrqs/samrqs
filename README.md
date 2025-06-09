@@ -20,3 +20,30 @@
 ![Postgresql](https://img.shields.io/badge/Postgresql-282C34?logo=postgresql)
 ![INsomnia](https://img.shields.io/badge/Insomnia-282C34?logo=insomnia)
 ![Pandas](https://img.shields.io/badge/Pandas-282C34?logo=pandas)
+
+### Status
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/samrqs" target="_blank">
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samrqs&theme=dracula" />
+      </a>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/samrqs" target="_blank">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samrqs&theme=dracula" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/samrqs" target="_blank">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samrqs&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
