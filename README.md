@@ -1,49 +1,91 @@
-# Seja bem-vindo(a)! :vulcan_salute:
+# Olá! Eu sou a Samara 👋
 
-![](https://komarev.com/ghpvc/?username=samrqsp&color=000000)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=samrqs&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/samrqs?label=Follow&style=social)
+💻 Desenvolvedora Backend Jr com foco em **Engenharia de Dados**  
+🎓 Graduada em **Ciência da Computação**  
+📍 São Paulo - Brasil  
 
-- :computer: Desenvolvedora Backend Jr.
-- :mortar_board: Cursando Ciências da Computação
-- :video_game: COD Mobile
+Tenho experiência no desenvolvimento de **APIs, pipelines de dados e processamento de informações** utilizando tecnologias modernas de backend e data engineering.  
+
+Atualmente trabalho com **Java, Python e Apache Airflow** na construção de sistemas e pipelines para ingestão e processamento de dados.
+
+---
+
+# 🚀 Tecnologias e Ferramentas
 
 ### Linguagens
+![Java](https://img.shields.io/badge/Java-282C34?logo=openjdk)
+![Python](https://img.shields.io/badge/Python-282C34?logo=python)
+![SQL](https://img.shields.io/badge/SQL-282C34?logo=postgresql)
 
-![Python](https://img.shields.io/badge/Python-282C34?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/Java-282C34?&logo=openjdk)
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-282C34?logo=springboot)
+![Django](https://img.shields.io/badge/Django-282C34?logo=django)
 
-### Bibliotecas e afins
-
-![Django](https://img.shields.io/badge/Django-282C34?logo=django&logoColor=35BF5C)
-![Postgresql](https://img.shields.io/badge/Postgresql-282C34?logo=postgresql)
-![INsomnia](https://img.shields.io/badge/Insomnia-282C34?logo=insomnia)
+### Data Engineering
+![Apache Airflow](https://img.shields.io/badge/Airflow-282C34?logo=apacheairflow)
 ![Pandas](https://img.shields.io/badge/Pandas-282C34?logo=pandas)
+![dbt](https://img.shields.io/badge/dbt-282C34?logo=dbt)
 
-### Status
+### Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql)
+![BigQuery](https://img.shields.io/badge/BigQuery-282C34?logo=googlebigquery)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-282C34?logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-282C34?logo=googlecloud)
+
+### Sistema Operacional
+![Linux](https://img.shields.io/badge/Linux-282C34?logo=linux)
+
+---
+
+# 🚜 Projeto em Destaque
+
+## Sistema Inteligente de Monitoramento Agrícola (TCC)
+
+Projeto de conclusão de curso focado na criação de um sistema para **monitoramento de solo utilizando IoT**, permitindo coleta e análise de dados agrícolas em tempo real.
+
+### Tecnologias utilizadas
+
+- ESP32
+- Sensores de solo
+- Comunicação LoRa
+- Pipeline de dados para análise
+- Backend para ingestão de dados
+
+📂 Repositório do projeto  
+🔗 *https://github.com/samrqs/tcc*
+
+---
+
+# 📊 Estatísticas do GitHub
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/samrqs" target="_blank">
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samrqs&theme=dracula" />
-      </a>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samrqs&theme=dracula" />
     </td>
   </tr>
 </table>
+
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/samrqs" target="_blank">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samrqs&theme=dracula" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/samrqs" target="_blank">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samrqs&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
-      </a>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samrqs&theme=dracula" />
     </td>
   </tr>
 </table>
-<br>
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn  
+https://www.linkedin.com/in/samaramarques/
+
+📧 Email  
+samarassk@gmail.com
+
+---
+
+⭐ Sempre aberta a aprender novas tecnologias e colaborar em projetos que envolvam **engenharia de dados, backend e análise de dados**.
